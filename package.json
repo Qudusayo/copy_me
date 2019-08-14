@@ -1,0 +1,16 @@
+{
+  "name": "copyme",
+  "version": "1.0.0",
+  "description": "Simple copy to clipboard",
+  "main": "copyMe.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "copy",
+    "clipboard",
+    "paste"
+  ],
+  "author": "qudusayo",
+  "license": "ISC"
+}
